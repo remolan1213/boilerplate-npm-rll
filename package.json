@@ -1,9 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Rolando L. Lanugon",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"author": "Rolando L. Lanugon",
+
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
